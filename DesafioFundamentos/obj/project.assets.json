@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xampp\\htdocs\\Telegram\\DioBootcamps\\trilha-net-fundamentos-desafio\\DesafioFundamentos\\DesafioFundamentos.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\Telegram\\DioBootcamps\\sistemaEstacionamento\\DesafioFundamentos\\DesafioFundamentos.csproj",
       "projectName": "DesafioFundamentos",
-      "projectPath": "C:\\xampp\\htdocs\\Telegram\\DioBootcamps\\trilha-net-fundamentos-desafio\\DesafioFundamentos\\DesafioFundamentos.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\Telegram\\DioBootcamps\\sistemaEstacionamento\\DesafioFundamentos\\DesafioFundamentos.csproj",
       "packagesPath": "C:\\Users\\Ascade\\.nuget\\packages\\",
-      "outputPath": "C:\\xampp\\htdocs\\Telegram\\DioBootcamps\\trilha-net-fundamentos-desafio\\DesafioFundamentos\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\Telegram\\DioBootcamps\\sistemaEstacionamento\\DesafioFundamentos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ascade\\AppData\\Roaming\\NuGet\\NuGet.Config"
