@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NXL6Dq2iohWflkCsdGhpDcUrQaD9L8s4fksrZNzvhuqC7q9KEoqSCdvsFiaI7d2/ddLfoVtuoOVSDWphiUs6XQ==",
+  "success": true,
+  "projectFilePath": "C:\\xampp\\htdocs\\Telegram\\DioBootcamps\\trilha-net-fundamentos-desafio\\DesafioFundamentos\\DesafioFundamentos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ascade\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Ascade\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Ascade\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Ascade\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
